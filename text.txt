@@ -1,1 +1,2 @@
-Hello, Gitclear!
+Hello, Git!!!
+new line
